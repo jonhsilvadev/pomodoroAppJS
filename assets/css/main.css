@@ -406,6 +406,9 @@ span.copyright i {
     div#footer {
         align-items: center;
         justify-content: center;
+        position: initial;
+        margin-bottom: 20px;
+        margin-top: 20px;
     }
     span.copyright {
         color: #465587;

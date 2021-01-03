@@ -370,3 +370,46 @@ span.copyright strong {
 span.copyright i {
     color: #8cb8bc;
 }
+
+@media screen and (max-width: 768px){
+    .app_timer {
+        width: 325px;
+        height: 325px;
+    }
+    
+    .base-timer__label {
+        width: 310px;
+        height: 305px;
+        font-size: 65px;
+    }
+    span#action {
+        width: 310px;
+        top: 200px;
+        font-size: 16px;
+    }
+    .app_navigation ul {
+        background: #222a4c;
+    }
+    .app_navigation ul li {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    div#footer {
+        align-items: center;
+        justify-content: center;
+    }
+    span.copyright {
+        color: #465587;
+        font-size: 13.5px !important;
+        margin-right: 0px;
+    }
+    .box_popup {
+        max-width: 85%;
+    }
+    .select_colors {
+        flex-direction: column;
+    }
+    .select_colors h4{
+        margin-bottom: 20px;
+    }
+}

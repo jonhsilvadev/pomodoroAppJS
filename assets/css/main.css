@@ -381,13 +381,13 @@ span.copyright i {
     }
     
     .base-timer__label {
-        width: 285px;
+        width: 315px;
         height: 285px;
         font-size: 65px;
     }
     span#action {
-        width: 285px;
-        top: 185px;
+        width: 315px;
+        top: 195px;
         font-size: 16px;
     }
     span.reset-time {
@@ -425,6 +425,7 @@ span.copyright i {
         height: auto;
     }
     h1 {
-        margin-top: 70px;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 }

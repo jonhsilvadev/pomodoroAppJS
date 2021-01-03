@@ -415,6 +415,9 @@ span.copyright i {
         font-size: 13.5px !important;
         margin-right: 0px;
     }
+    div.popup-app {
+        overflow: inherit !important;
+    }
     .box_popup {
         max-width: 85%;
     }
